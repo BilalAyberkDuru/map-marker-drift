@@ -1,0 +1,19 @@
+# Gizli bilgiler: ASLA commit edilmez
+secrets.properties
+local.places.properties
+local.properties
+*.keystore
+*.jks
+
+# Gradle / derleme çıktıları
+.gradle/
+.kotlin/
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# IDE
+.idea/
+*.iml
+.DS_Store
